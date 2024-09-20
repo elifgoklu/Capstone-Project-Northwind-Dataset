@@ -29,7 +29,7 @@ group by 1,2
 order by 5 desc
 
 -- Step 3:
--- Basket Analysis - Which Products and Categories Are Most Frequently Purchased Together?
+--Basket Analysis - Which Products and Categories Are Most Frequently Purchased Together?
 --Basket analysis measures how often a pair of products is repeated across different orders. 
 --This helps identify whether customers tend to purchase specific pairs of products together (e.g., diapers and beer), providing insights into customer behavior.
 --Step 3.1 Products most frequently purchased together:
